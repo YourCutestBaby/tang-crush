@@ -6,7 +6,7 @@ const CONFIG = {
     title: 'Chưa bao giờ em nghĩ rằng anh là gu của em đâu 😙',
     desc: 'Mà giọng nói ngọt ngào cất ra từ headphone, say đắm ngọt ngào lỡ yêu rồi mất khôn ',
     btnYes: 'Vẫn cứ là thương em <33',
-    btnNo: 'Không ư? sự lựa chọn này sẽ làm em buồn đó ',
+    btnNo: 'Không ư? Em buồn đó ',
     question:'Qua được câu đầu rồi thì câu thứ hai nè: Trên thế giới hơn 7 tỉ người mà sao anh lại thương em <3',
     btnReply: 'Không em chứ ai, đố anh tìm được ai giống em thứ 2',
     reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
